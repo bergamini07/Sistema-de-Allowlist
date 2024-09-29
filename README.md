@@ -1,0 +1,1 @@
+Sistema de allowlist que verifica se o usuário tem 18 anos, faz as perguntas a ele em um canal privado, envia as respostas do usuário para um canal de logs, verifica se ele foi aprovado ou não e adiciona o respectivo cargo
